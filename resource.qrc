@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rom/128.rom</file>
+        <file>rom/48.rom</file>
+        <file>rom/test1.scr</file>
+        <file>rom/test2.scr</file>
+        <file>sna/driller.sna</file>
+        <file>sna/jetpac.sna</file>
+        <file>sna/r-type.sna</file>
+        <file>sna/river.sna</file>
+        <file>sna/save.sna</file>
+        <file>z80/elite.z80</file>
+        <file>z80/mspacman.z80</file>
+        <file>z80/nebulus.z80</file>
+        <file>z80/simcity.z80</file>
+    </qresource>
+</RCC>
